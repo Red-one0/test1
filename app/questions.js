@@ -1,6 +1,6 @@
 const questions = [
   {
-    number: 1000,
+    number: 1,
     question: 'من هو أول من أسلم من الرجال؟',
     answer: 'سيدنا أبو بكر الصديق رضي الله عنه.',
   },
